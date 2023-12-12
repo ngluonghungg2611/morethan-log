@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `isBenAIdev`,
-      href: "https://github.com/ngluonghungg2611/morethan-log",
+      href: "https://github.com/ngluonghungg2611?tab=repositories",
     },
   ],
   // blog setting (required)
