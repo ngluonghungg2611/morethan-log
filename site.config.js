@@ -6,8 +6,8 @@ const CONFIG = {
     role: "AI developer",
     bio: "I have 1.5 years of experience in the field of computer vision. I want to become a bridge software engineer in the future. I am improving my professional knowledge and foreign language (Korean)",
     email: "benu.aidev@gmail.com",
-    linkedin: "https://www.linkedin.com/in/ben-aidev",
-    github: "https://github.com/ngluonghungg2611",
+    linkedin: "ben-aidev",
+    github: "ngluonghungg2611",
     instagram: "",
   },
   projects: [
